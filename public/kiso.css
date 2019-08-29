@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+p{
+    font-family: 'M+ C Type-1 (basic latin) Regular',
+        'M+ Type-1 (general-j) Regular', sans-serif;;
+}
+a{
+    font-family: 'M+ C Type-1 (basic latin) Regular',
+        'M+ Type-1 (general-j) Regular', sans-serif;
+        color: inherit;
+}a.hover{
+    text-decoration: none;
+}
+
+h1{
+     font-family: 'M+ C Type-1 (basic latin) Regular',
+        'M+ Type-1 (general-j) Regular', sans-serif;
+}
+
+li{
+    list-style-type: none;
+}
+
+
+
+#yo-1{
+    margin-right: 3px;
+}
+a{
+    text-decoration: none;
+}
+
+img.attachment-middle-feature.size-middle-feature.wp-post-image{
+    width: 100%;
+    height: 180px;
+        margin-bottom: -6px;
+    border-bottom: 16px solid;
+    border-bottom-color: #ffbb3e;
+}
+
+i{
+    margin-right: 8px;
+}
+
+html,body { height:100%; }
+
+div#content {
+    height: 100%;
+}
+
+// スクロールバー全体
+.scrollbox::-webkit-scrollbar {
+  width:10px;
+  background:#eee;
+}
+// 横スクロールバー全体
+.scrollbox::-webkit-scrollbar:horizontal {
+  height:10px;
+}
+// スクロールバー上下左右末端のボタン
+.scrollbox::-webkit-scrollbar-button {
+  width:10px;
+  height:10px;
+  background:#666;
+}
+// ドラッグするツマミ部分
+.scrollbox::-webkit-scrollbar-thumb {
+  background:#999;
+}
+// 右下角部分
+.scrollbox::-webkit-scrollbar-corner {
+  background:#ddd;
+}
+
+span{
+    font-family: 'M+ C Type-1 (basic latin) Regular',
+        'M+ Type-1 (general-j) Regular', sans-serif;
+}
+
+label, form, imput, select{
+    font-family: 'M+ C Type-1 (basic latin) Regular',
+        'M+ Type-1 (general-j) Regular', sans-serif!important;
+}
